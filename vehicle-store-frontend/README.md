@@ -145,7 +145,7 @@ App.js
 
 ### 1. Clone Repository
 
-git clone https://github.com/yourusername/vehicle-store-frontend.git
+git clone https://github.com/lavkumar3112/vehicleStore.git
 
 cd vehicle-store-frontend
 

@@ -142,7 +142,7 @@ exception
 
 git clone https://github.com/lavkumar3112/vehicleStore.git
 
-cd vehicle-store-backend
+cd vehicleStoreBackend
 
 ---
 
